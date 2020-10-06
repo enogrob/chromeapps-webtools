@@ -1,0 +1,17 @@
+{
+  "name": "Font Awesome",
+  "description": "Access Font Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://fontawesome.com/icons?d=gallery"
+    ],
+    "launch": {
+      "web_url": "https://fontawesome.com/icons?d=gallery"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

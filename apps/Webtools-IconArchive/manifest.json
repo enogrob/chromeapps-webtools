@@ -1,0 +1,17 @@
+{
+  "name": "IconArchive",
+  "description": "Access IconArchive",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://iconarchive.com/"
+    ],
+    "launch": {
+      "web_url": "https://iconarchive.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

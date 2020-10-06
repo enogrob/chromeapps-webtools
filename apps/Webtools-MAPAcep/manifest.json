@@ -1,0 +1,17 @@
+{
+  "name": "MAPAcep",
+  "description": "Access MAPAcep",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.mapacep.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.mapacep.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

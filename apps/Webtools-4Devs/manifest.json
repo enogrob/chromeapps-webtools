@@ -1,0 +1,17 @@
+{
+  "name": "4Devs",
+  "description": "Access 4Devs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.4devs.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.4devs.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
