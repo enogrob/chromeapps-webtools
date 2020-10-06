@@ -1,0 +1,17 @@
+{
+  "name": "GoogleTranslate",
+  "description": "Access GoogleTranslate",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://translate.google.com/"
+    ],
+    "launch": {
+      "web_url": "https://translate.google.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

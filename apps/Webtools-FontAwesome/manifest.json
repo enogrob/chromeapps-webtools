@@ -1,6 +1,6 @@
 {
-  "name": "Font Awesome",
-  "description": "Access Font Awesome",
+  "name": "FontAwesome",
+  "description": "Access FontAwesome",
   "version": "1",
   "manifest_version": 2,
   "app": {
