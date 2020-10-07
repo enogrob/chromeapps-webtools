@@ -1,0 +1,17 @@
+{
+  "name": "Pigshell",
+  "description": "Access Pigshell",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://pigshell.com"
+    ],
+    "launch": {
+      "web_url": "http://pigshell.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

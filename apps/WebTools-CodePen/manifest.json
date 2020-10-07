@@ -1,0 +1,17 @@
+{
+  "name": "CodePen",
+  "description": "Access CodePen",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://codepen.io"
+    ],
+    "launch": {
+      "web_url": "https://codepen.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

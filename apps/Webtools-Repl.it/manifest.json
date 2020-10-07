@@ -1,0 +1,17 @@
+{
+  "name": "Repl.it",
+  "description": "Access Repl.it",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://repl.it/"
+    ],
+    "launch": {
+      "web_url": "https://repl.it/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

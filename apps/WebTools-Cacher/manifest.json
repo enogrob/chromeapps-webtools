@@ -1,0 +1,17 @@
+{
+  "name": "Cacher",
+  "description": "Access Cacher",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.cacher.io/"
+    ],
+    "launch": {
+      "web_url": "https://www.cacher.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

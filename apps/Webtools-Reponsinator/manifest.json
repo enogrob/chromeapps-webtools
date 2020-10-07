@@ -1,0 +1,17 @@
+{
+  "name": "Responsinator",
+  "description": "Access Reponsinator",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.responsinator.com/"
+    ],
+    "launch": {
+      "web_url":"http://www.responsinator.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

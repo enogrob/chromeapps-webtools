@@ -1,0 +1,17 @@
+{
+  "name": "ColorCodes",
+  "description": "Access ColorCodes",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.colorschemer.com/color-codes/"
+    ],
+    "launch": {
+      "web_url":"https://www.colorschemer.com/color-codes/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

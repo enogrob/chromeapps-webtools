@@ -1,0 +1,17 @@
+{
+  "name": "AnkiWeb",
+  "description": "Access AnkiWeb",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ankiweb.net"
+    ],
+    "launch": {
+      "web_url": "https://ankiweb.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

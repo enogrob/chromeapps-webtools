@@ -27,8 +27,15 @@ drwxr-xr-x    4 enogrob  staff    136 Oct  4 11:11 images
 
 $ tree -L 1 apps/
 apps
+├── WebTools-Cacher
+├── WebTools-CodePen
+├── WebTools-Gist
+├── WebTools-JSFiddle
 ├── Webtools-4Devs
+├── Webtools-AnkiWeb
 ├── Webtools-Applicationize
+├── Webtools-Codeply
+├── Webtools-ColorCodes
 ├── Webtools-DevDocs
 ├── Webtools-FontAwesome
 ├── Webtools-GoogleImages
@@ -36,10 +43,13 @@ apps
 ├── Webtools-IconArchive
 ├── Webtools-MAPAcep
 ├── Webtools-Miro
+├── Webtools-Pigshell
+├── Webtools-Repl.it
+├── Webtools-Reponsinator
 ├── Webtools-Trello
 └── Webtools-Wikipedia
 
-16 directories, 0 files
+21 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
