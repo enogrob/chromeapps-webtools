@@ -1,0 +1,17 @@
+{
+  "name": "GoogleTimeline",
+  "description": "Access GoogleTimeline",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.google.com/maps/timeline?ved=0ENaiAggAKAA&pb&gid=118002141740160960997"
+    ],
+    "launch": {
+      "web_url": "https://www.google.com/maps/timeline?ved=0ENaiAggAKAA&pb&gid=118002141740160960997"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
