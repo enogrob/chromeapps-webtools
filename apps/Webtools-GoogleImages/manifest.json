@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://www.google.com.br/search?q=TheBrain&as_st=y&biw=1357&bih=806&tbs=ift:png,isz:ex,iszw:300,iszh:300&tbm=isch&source=lnt&sa=X&ei=uIgeUs3YNuK9sQS1ioCwCA&ved=0CCsQpwUoBQ&gws_rd=cr"
+      "https://enogrob.github.io/advanced-image-search/src/popup.html"
     ],
     "launch": {
-      "web_url": "https://www.google.com.br/search?q=Image&as_st=y&biw=1357&bih=806&tbs=ift:png,isz:ex,iszw:300,iszh:300&tbm=isch&source=lnt&sa=X&ei=uIgeUs3YNuK9sQS1ioCwCA&ved=0CCsQpwUoBQ&gws_rd=cr"
+      "web_url": "https://enogrob.github.io/advanced-image-search/src/popup.html"
     }
   },
   "icons": {
