@@ -11,7 +11,7 @@ Open a terminal give the following command:
 $ git clone https://github.com/enogrob/chromeapps-webtools.git
 ```
 
-As we can see a subdirectory is created for each DevOps app.
+As we can see a subdirectory is created for each WebTools app.
 
 ```bash
 $ ls -la
@@ -53,7 +53,7 @@ apps
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Eicon, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `WebTools-Miro`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
+In order to load the `Chrome Apps` for WebTools, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `WebTools-Miro`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
 
 [chrome://extensions](chrome://extensions)
 
