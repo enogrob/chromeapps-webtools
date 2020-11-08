@@ -1,0 +1,17 @@
+{
+  "name": "VoiceRecorder",
+  "description": "Access VoiceRecorder",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://online-voice-recorder.com/"
+    ],
+    "launch": {
+      "web_url":"https://online-voice-recorder.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
