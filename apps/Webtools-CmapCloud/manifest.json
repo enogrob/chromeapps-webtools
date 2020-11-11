@@ -1,0 +1,17 @@
+{
+  "name": "CmapCloud",
+  "description": "Access CmapCloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://cmapcloud.ihmc.us/cmaps/myCmaps.html"
+    ],
+    "launch": {
+      "web_url": "https://cmapcloud.ihmc.us/cmaps/myCmaps.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
