@@ -1,0 +1,17 @@
+{
+  "name": "MeetUp",
+  "description": "Access MeetUp",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.meetup.com"
+    ],
+    "launch": {
+      "web_url": "https://www.meetup.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

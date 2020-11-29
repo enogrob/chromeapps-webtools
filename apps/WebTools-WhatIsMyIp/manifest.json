@@ -1,0 +1,17 @@
+{
+  "name": "WhatIsMyIp",
+  "description": "Access WhatIsMyIp",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.whatismyip.com"
+    ],
+    "launch": {
+      "web_url": "https://www.whatismyip.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
