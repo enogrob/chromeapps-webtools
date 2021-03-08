@@ -1,0 +1,17 @@
+{
+  "name": "xls-to-csv",
+  "description": "Access xls-to-csv",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.zamzar.com/convert/xls-to-csv/"
+    ],
+    "launch": {
+      "web_url": "https://www.zamzar.com/convert/xls-to-csv/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
