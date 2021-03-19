@@ -1,0 +1,17 @@
+{
+  "name": "DB Diagram",
+  "description": "Access DB Diagram",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://dbdiagram.io"
+    ],
+    "launch": {
+      "web_url": "https://dbdiagram.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
