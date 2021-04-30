@@ -1,0 +1,17 @@
+{
+  "name": "Swimlanes",
+  "description": "Access Swimlanes",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://swimlanes.io"
+    ],
+    "launch": {
+      "web_url": "https://swimlanes.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
