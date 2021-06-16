@@ -1,0 +1,17 @@
+{
+  "name": "Fill & Sign",
+  "description": "Access Fill & Sign",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://documentcloud.adobe.com/link/acrobat/fillsign#"
+    ],
+    "launch": {
+      "web_url": "https://documentcloud.adobe.com/link/acrobat/fillsign#"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
