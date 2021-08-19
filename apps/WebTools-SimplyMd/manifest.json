@@ -1,0 +1,17 @@
+{
+  "name": "SimplyMd",
+  "description": "Access SimplyMd",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://simplymarkdown.co/create"
+    ],
+    "launch": {
+      "web_url": "https://simplymarkdown.co/create"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
