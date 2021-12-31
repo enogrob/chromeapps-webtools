@@ -1,0 +1,17 @@
+{
+  "name": "Icons8",
+  "description": "Access Icons8",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://icons8.com"
+    ],
+    "launch": {
+      "web_url": "https://icons8.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
