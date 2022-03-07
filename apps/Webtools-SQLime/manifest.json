@@ -1,0 +1,17 @@
+{
+  "name": "SQLime",
+  "description": "Access SQLime",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://sqlime.org"
+    ],
+    "launch": {
+      "web_url":"https://sqlime.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

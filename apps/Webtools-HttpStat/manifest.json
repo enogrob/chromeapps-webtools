@@ -1,0 +1,17 @@
+{
+  "name": "HttpStat",
+  "description": "Access HttpStat",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://httpstat.us"
+    ],
+    "launch": {
+      "web_url": "https://httpstat.us"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

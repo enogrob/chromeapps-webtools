@@ -1,0 +1,17 @@
+{
+  "name": "VsCode",
+  "description": "Access VsCode",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://vscode.dev"
+    ],
+    "launch": {
+      "web_url":"https://vscode.dev"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
