@@ -1,14 +1,14 @@
 {
-  "name": "Repls",
-  "description": "Repls",
+  "name": "Notion",
+  "description": "Notion",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://riju.codes"
+      "https://www.notion.so"
     ],
     "launch": {
-      "web_url": "https://riju.codes"
+      "web_url": "https://www.notion.so"
     }
   },
   "icons": {
